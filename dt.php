@@ -1,0 +1,3 @@
+<?php
+$apibot = "7792485162:AAGUDIDYgBzX20JyOsgiX4CK07uHt4rrN8U";
+$canal = "-1002380808594";
